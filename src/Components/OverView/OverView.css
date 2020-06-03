@@ -1,0 +1,28 @@
+.image__class{
+    height: 250px;
+    margin-top: -75px;
+    margin-left: 25px;
+    position: absolute;
+    width: 250px;
+    border: crimson;
+    background-color: #f8f1f1;
+    border-radius: 15px;
+}
+
+.card__class{
+    position: absolute;
+    margin-left: 350px;
+    margin-top: -75px;
+}
+
+.button__class{
+    position: absolute;
+    margin-top: 125px;
+    border-radius: 15x;
+    text-align: center;
+}
+
+.btn{
+    width: 150px;
+    border-radius: 10px;
+}

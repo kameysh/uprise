@@ -1,0 +1,19 @@
+
+.container{
+    margin-top: 2.5rem;
+    border-radius: 15px;
+    background-color: white;
+    
+  }
+
+  .cont{
+      height: 200px;
+      position: absolute;
+  }
+
+  .Nav__item:hover{
+      background-color: #0779e4;
+      border-radius: 2px;
+  }
+
+  
